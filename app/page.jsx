@@ -67,6 +67,13 @@ const cards = [
     github: "https://github.com/plewfx/portfolio",
     technologies: ["Next", "Material"]
   },
+  {
+    title: 'Enver',
+    img: "/Enver.png",
+    live: "https://enver-nine.vercel.app/",
+    github: "https://github.com/plewfx/enver",
+    technologies: ["Next", "Tailwind"]
+  },
 ];
 
 const theme = createTheme({
